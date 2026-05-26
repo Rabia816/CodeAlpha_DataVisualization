@@ -133,7 +133,7 @@ The notebook includes:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/CodeAlpha_DataVisualization.git
+git clone https://github.com/Rabia816/CodeAlpha_DataVisualization.git
 ```
 
 ---
